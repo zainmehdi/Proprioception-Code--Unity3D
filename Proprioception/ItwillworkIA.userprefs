@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Haptic Project Components\Scripts\Script Scene\SimpleShapeManipulationAndPhysics.cs">
+    <Files>
+      <File FileName="Assets\Haptic Project Components\Scripts\Plugin Import\GenericFunctionsClass.cs" Line="143" Column="1" />
+      <File FileName="Assets\Haptic Project Components\Scripts\Script Scene\Advanced Examples\Jenga\SimpleShapeManipulationAndPhysicsJenga.cs" Line="138" Column="4" />
+      <File FileName="Assets\Haptic Project Components\Scripts\Script Scene\Advanced Examples\Writing\SimpleShapeContactWriting.cs" Line="98" Column="4" />
+      <File FileName="Assets\Haptic Project Components\Scripts\Script Scene\CustomForceEffect.cs" Line="108" Column="4" />
+      <File FileName="Assets\Haptic Project Components\Scripts\Script Scene\HapticInjection.cs" Line="123" Column="4" />
+      <File FileName="Assets\Haptic Project Components\Scripts\Script Scene\SimpleShapeContact.cs" Line="93" Column="4" />
+      <File FileName="Assets\Haptic Project Components\Scripts\Script Scene\SimpleShapeManipulation.cs" Line="104" Column="4" />
+      <File FileName="Assets\Haptic Project Components\Scripts\Script Scene\SimpleShapeManipulationAndPhysics.cs" Line="45" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

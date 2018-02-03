@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Haptic Project Components/Scene/Basic_Shape_Manipulation.unity
+  isLoaded: 1
+  isActive: 1
